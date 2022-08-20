@@ -1,2 +1,2 @@
 # assignment17-08-22
-CSS Inline, Internal, External and HTML Table
+https://belalhusayeen.github.io/assignment17-08-22/
